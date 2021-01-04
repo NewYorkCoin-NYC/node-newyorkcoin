@@ -1,6 +1,6 @@
 # A Node.js NewYorkCoin Client!
 
-![NewYorkCoin](https://github.com/NewYorkCoinNYC/Node-NewYorkCoin/blob/main/node-newyorkcoin.png)
+![NewYorkCoin](https://github.com/newYorkCoin-NYC/Node-NewYorkCoin/blob/main/node-newyorkcoin.png)
 
 node-newyorkcoin is a NewYorkCoin client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with NewYorkCoin. The purpose of this repository is:
 
@@ -11,7 +11,7 @@ node-newyorkcoin is a NewYorkCoin client for Node.js. It is a fork of the excell
 
 ## Dependencies
 
-You'll need a running instance of [newyorkcoind](https://github.com/NewYorkCoinNYC/nycoin) to connect with.
+You'll need a running instance of [newyorkcoind](https://github.com/newYorkCoin-NYC/nycoin) to connect with.
 
 Then, install the node-newyorkcoin NPM package.
 
@@ -19,7 +19,7 @@ Then, install the node-newyorkcoin NPM package.
 
 ## Examples
 
-Some code examples follow below, but for more complete examples, see [these snippets](https://github.com/NewYorkCoinNYC/newyorkcoin-code-snippets), or this [wallet app](https://github.com/NewYorkCoinNYC/nycoinlet) which was created to to test this module.
+Some code examples follow below, but for more complete examples, see [these snippets](https://github.com/newYorkCoin-NYC/newyorkcoin-code-snippets), or this [wallet app](https://github.com/newYorkCoin-NYC/nycoinlet) which was created to to test this module.
 
 ```js
 var newyorkcoin = require('node-newyorkcoin')()
